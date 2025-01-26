@@ -9,6 +9,7 @@ data = pd.read_csv('calendar.csv')
 ```
 ## to know number of available and unavailable rooms
 <img width="305" alt="Screenshot 1446-07-19 at 2 45 23 PM" src="https://github.com/user-attachments/assets/51075729-69d6-40a7-9a7f-f30fd27f9469" />
+
 ## 2
 diff
 df['available'].value_counts(normalize=True)
